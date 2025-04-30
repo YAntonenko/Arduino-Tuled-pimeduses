@@ -1,2 +1,2 @@
-### Welcome to Arduino project "Valgus pimeduses" 🫡
+# Welcome to Arduino project "Valgus pimeduses" 🫡
 ## Autor: Yuna Antonenko
